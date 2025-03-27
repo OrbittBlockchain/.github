@@ -15,7 +15,6 @@
 <p align="center">
   <a href="https://twitter.com/orbittpro"><img src="https://img.shields.io/badge/Twitter-Follow%20Us-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
   <a href="https://t.me/orbittpro"><img src="https://img.shields.io/badge/Telegram-Join%20Us-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
-  <a href="https://www.orbitt.pro/en"><img src="https://img.shields.io/badge/Website-Orbitt.pro-0A0A0A?style=for-the-badge&logo=googlechrome" alt="Website" /></a>
   <a href="https://orbitt-pro.gitbook.io/orbitts-pro-whitepaper"><img src="https://img.shields.io/badge/Whitepaper-Read%20Now-blue?style=for-the-badge" alt="Whitepaper" /></a>
 </p>
 
