@@ -1,6 +1,6 @@
 <p align="center">
-<!--   <img src="https://i.ibb.co/PvD0tWQM/image-1.png" alt="Orbitt Logo" width="500" /> -->
-  <img src="https://i.ibb.co/PvD0tWQM/image-1.png](https://orbitt.pro/mediakit/OrbittLogoWhite.svg" alt="Orbitt Logo" width="500" />
+  <img src="https://i.ibb.co/PvD0tWQM/image-1.png" alt="Orbitt Logo" width="500" />
+<!--   <img src="https://i.ibb.co/PvD0tWQM/image-1.png](https://orbitt.pro/mediakit/OrbittLogoWhite.svg" alt="Orbitt Logo" width="500" /> -->
 
 </p>
 
